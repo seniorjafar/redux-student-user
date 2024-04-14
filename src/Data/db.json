@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Jaf'ar",
+      "group": "N38",
+      "surname": "Jabborov",
+      "phone": "9876543210"
+    },
+    {
+      "id": "2",
+      "name": "Karl",
+      "group": "N45",
+      "surname": "Kimson",
+      "phone": "9876543210"
+    },
+    {
+      "id": "3",
+      "name": "Tony",
+      "group": "N1",
+      "surname": "Stark",
+      "phone": "9876543210"
+    },
+    {
+      "name": "Kara",
+      "group": "N16",
+      "surname": "Tomson",
+      "phone": "9876543210",
+      "id": "4"
+    }
+  ]
+}
